@@ -9,6 +9,6 @@ public class HelloLlama {
         
         System.out.println("hey llamas, is this working?"); // lukec.
         System.out.println("Hopefully I just figured out Netbeans"); //Mark S.
-        System.out.println("Finally working"); //Alexa F.
+        System.out.println("Finally working!"); //Alexa F.
     }
 }
