@@ -6,5 +6,7 @@ public class HelloLlama {
         System.out.println("Hello, Llamas!!");
         System.out.println("I love llamas"); // added by R.Davis
         System.out.println("#MultiTabLife"); // added by R.Davis
+        
+        System.out.println("hey llamas, is this working?"); // lukec.
     }
 }
