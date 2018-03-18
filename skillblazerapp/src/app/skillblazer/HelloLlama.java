@@ -11,7 +11,7 @@ public class HelloLlama {
         System.out.println("Hopefully I just figured out Netbeans"); //Mark S.
         System.out.println("Finally working!"); //Alexa F.
 
-        Llama surprise = new Llama();  // Jason
-        System.out.println(surprise.toString());
+        Llama asciiLlama = new Llama();  // Jason
+        System.out.println(asciiLlama.toString());
     }
 }
