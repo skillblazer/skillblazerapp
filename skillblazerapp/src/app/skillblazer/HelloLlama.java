@@ -7,7 +7,7 @@ public class HelloLlama {
         System.out.println("I love llamas"); // added by R.Davis
         System.out.println("#MultiTabLife"); // added by R.Davis
         
-        System.out.println("hey llamas"); // lukec.
+        System.out.println("yo https://www.youtube.com/watch?v=HbPDKHXWlLQ"); // lukec.
         System.out.println("Hopefully I just figured out Netbeans"); //Mark S.
         System.out.println("Finally working!"); //Alexa F.
 
