@@ -13,5 +13,7 @@ public class HelloLlama {
 
         Llama asciiLlama = new Llama();  // Jason
         System.out.println(asciiLlama.toString());
+        
+        System.out.println("Hello Alexa April 7, 2018");
     }
 }
