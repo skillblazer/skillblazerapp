@@ -15,5 +15,6 @@ public class HelloLlama {
         System.out.println(asciiLlama.toString());
         
         System.out.println("Hi, everyone!");
+        System.out.println("It's Alexa");
     }
 }
