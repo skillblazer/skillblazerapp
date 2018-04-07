@@ -13,5 +13,10 @@ public class HelloLlama {
 
         Llama asciiLlama = new Llama();  // Jason
         System.out.println(asciiLlama.toString());
+        
+        System.out.println("Hi, everyone!");
+        System.out.println("It's Alexa");
+
+        // youtube search - llamas with hats -- NSFW
     }
 }
