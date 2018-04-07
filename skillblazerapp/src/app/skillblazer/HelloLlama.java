@@ -16,5 +16,6 @@ public class HelloLlama {
         
         System.out.println("Hello Alexa April 7, 2018");
         System.out.println("Hello, its Mark");
+        System.out.println("Rebecca was here");
     }
 }
